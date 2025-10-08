@@ -15,3 +15,6 @@ By clicking the button  with the number "0", "1", "2"  the respective photos is 
 Mysql database structure
 
 ![photoshow3](https://github.com/ReinhardLenz/photoshow/assets/71219487/3ef629e5-ae12-429e-a18d-fef734d08e5f)
+
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ReinhardLenz&repo=photoshow&color=green)
